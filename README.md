@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @JoshOJK
-- 👀 I’m interested in Cyber Security.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on Instagram.
-- 📫 How to reach me Instagram- Krienke.Josh
+- 👋 Hi, I’m @JoshOJK, Josh Krienke
+- I am a App Academy Alumn
+- advanced javascript programmer, intermediate in python
 
 <!---
 JoshOJK/JoshOJK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
