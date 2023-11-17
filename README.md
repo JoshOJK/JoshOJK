@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @JoshOJK, Josh Krienke
-- I am a App Academy Alumn
-- advanced javascript programmer, intermediate in python
+Joshua Krienke 
+I program with these guys - 
 
 <!---
 JoshOJK/JoshOJK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
