@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Web Developer
 ------------------------
 
-Javascript, Python, Flask, Express, SQL, Sqlite, css, HTML5, Sequelize, Redux, NodeJS, Gitflow
-
 *   🌍  I'm based in Calfornia
 *   ✉️  You can contact me at [jokrienke@comcast.net](mailto:jokrienke@comcast.net)
 *   🚀  I'm currently working on [https://fwbc-service.onrender.com](http://https://fwbc-service.onrender.com)
